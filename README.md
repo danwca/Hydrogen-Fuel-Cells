@@ -31,7 +31,13 @@ Hydrogen Fuel Cells, Polymer electrolyte membrane (PEM) fuel cells, proton excha
 
 #### 商业方案
 1. 制氢， 
-2. 
+2. 氢发电
+
+
+#### 个人理解
+1. HyLYZER使用在需要氢气的地方， 例如， 氢发动机的汽车，
+2. HyLYZER使用在有二氧化碳排放要求的地方， 例如， 柴油发动机，
+3. HyLYZER使用在电能源储存的地方， 例如， 发电平峰， 
 
 
 #### 专业词汇
@@ -42,6 +48,6 @@ Hydrogen Fuel Cells, Polymer electrolyte membrane (PEM) fuel cells, proton excha
 
 #### 参考链接
 1. [康明新恩泽解决方案](https://www.cumminsenze.com/Case/10.html), 提供应用案例， 官方信息， 有使用`康明斯`应用案例的情况； 一共8个应用案例；三峡集团乌兰察布“源网荷储一体化”示范项目,  Varennes Carbon Recycling 魁北克省 90MW 电解槽项目, 法国氢能出行公司 Hysetco现场制氢加氢项目, 中国石化中原油田可再生电力电解水制氢示范项目, 比利时安特卫普港绿氢现场制氢加氢站, 丹麦Hybalance现场制氢项目,  加拿大魁北克省Bécancour液化空气制氢厂项目,  美国道格拉斯（Douglas）可再生能源制氢项目;
-2. 
+2. [Enerkem](https://enerkem.com/), Varennes, Quebec, Canada, Varennes Carbon Recycling (VCR) employs Enerkem's innovative process, coupled with one of the world's largest PEM electrolyzers, to produce biofuels and circular chemicals from non-recyclable waste and residual biomass. Varennes Carbon Recycling incorporates a substantial 90MW proton exchange membrane (PEM) electrolyzer system from Accelera by Cummins. will produce renewable hydrogen and oxygen, contributing to carbon reduction in fuel and chemical production. Scheduled to be operational in 2026; 
 
 
