@@ -38,6 +38,8 @@ Hydrogen Fuel Cells, Polymer electrolyte membrane (PEM) fuel cells, proton excha
 1. HyLYZER使用在需要氢气的地方， 例如， 氢发动机的汽车，
 2. HyLYZER使用在有二氧化碳排放要求的地方， 例如， 柴油发动机，柴油发电机
 3. HyLYZER使用在电能源储存的地方， 例如， 发电平峰， 
+4. HyLYZER是制氢设备， 是康明斯在氢能源概念的市场中一个基础产品；康明斯有氢发动机和氢发电机相关产品；
+5. 对于采矿行业， 对碳排放需求的公司， 需要购买电动车， 氢发动机的汽车； 同时需要备用电源， 取代柴油发电机；    
 
 
 #### 专业词汇
