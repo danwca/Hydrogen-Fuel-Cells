@@ -36,7 +36,7 @@ Hydrogen Fuel Cells, Polymer electrolyte membrane (PEM) fuel cells, proton excha
 
 #### 个人理解
 1. HyLYZER使用在需要氢气的地方， 例如， 氢发动机的汽车，
-2. HyLYZER使用在有二氧化碳排放要求的地方， 例如， 柴油发动机，
+2. HyLYZER使用在有二氧化碳排放要求的地方， 例如， 柴油发动机，柴油发电机
 3. HyLYZER使用在电能源储存的地方， 例如， 发电平峰， 
 
 
@@ -44,6 +44,9 @@ Hydrogen Fuel Cells, Polymer electrolyte membrane (PEM) fuel cells, proton excha
 1. 下游场景应用， 是指利用氢气进行其他商业活动的场景， 例如， 使用氢气发电的汽车， 
 2. PEM, Polymer electrolyte membrane, 高分子电解质膜；proton exchange membrane， 质子交换膜；  
 3. Polymer Electrolyte Membrane Fuel Cells，质子交换膜燃料电池， 
+
+#### 其他
+1. 关键字： diesel
 
 
 #### 参考链接
