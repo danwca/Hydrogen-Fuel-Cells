@@ -26,7 +26,7 @@ Hydrogen Fuel Cells, Polymer electrolyte membrane (PEM) fuel cells, proton excha
 #### 应用案例
 1. Enbridge Gas, Ontario, Canada, [Enbridge and clean hydrogen](https://www.enbridge.com/about-us/new-energy-technologies/clean-hydrogen/enbridge-and-clean-hydrogen), [establish North America’s first utility-scale power-to-gas (P2G) facility](https://www.enbridge.com/Stories/2020/November/Enbridge-Gas-and-Hydrogenics-groundbreaking-hydrogen-blending-project-Ontario.aspx), Groundbreaking $5.2M hydrogen blending project aims to green Ontario’s natural gas grid; Enbridge began building ... hydrogen expertise through a project with Cummins Inc.; Launched in 2018, the 2.5-megawatt (MW) Markham P2G facility has been used by the Independent Electricity System Operator (IESO); 
 2. [三峡集团乌兰察布“源网荷储一体化”示范项目](https://www.cumminsenze.com/Case_detail/14.html), 
-
+3. [HyBalance – Green Energy Project Denmark](https://hybalance.eu/), HyBalance is a project that demonstrates the use of hydrogen in energy systems; The HyBalance project has received funding from the Fuel Cells and Hydrogen 2 Joint Undertaking under grant agreement No 671384; It can help balance the grid, and the hydrogen is used for clean transportation and in the industrial sector; 
 
 
 #### 商业方案
@@ -54,5 +54,5 @@ Hydrogen Fuel Cells, Polymer electrolyte membrane (PEM) fuel cells, proton excha
 #### 参考链接
 1. [康明新恩泽解决方案](https://www.cumminsenze.com/Case/10.html), 提供应用案例， 官方信息， 有使用`康明斯`应用案例的情况； 一共8个应用案例；三峡集团乌兰察布“源网荷储一体化”示范项目,  Varennes Carbon Recycling 魁北克省 90MW 电解槽项目, 法国氢能出行公司 Hysetco现场制氢加氢项目, 中国石化中原油田可再生电力电解水制氢示范项目, 比利时安特卫普港绿氢现场制氢加氢站, 丹麦Hybalance现场制氢项目,  加拿大魁北克省Bécancour液化空气制氢厂项目,  美国道格拉斯（Douglas）可再生能源制氢项目;
 2. [Enerkem](https://enerkem.com/), Varennes, Quebec, Canada, Varennes Carbon Recycling (VCR) employs Enerkem's innovative process, coupled with one of the world's largest PEM electrolyzers, to produce biofuels and circular chemicals from non-recyclable waste and residual biomass. Varennes Carbon Recycling incorporates a substantial 90MW proton exchange membrane (PEM) electrolyzer system from Accelera by Cummins. will produce renewable hydrogen and oxygen, contributing to carbon reduction in fuel and chemical production. Scheduled to be operational in 2026; 
-
+3. [质子交换膜燃料电池 - wikipedia](https://zh.wikipedia.org/wiki/%E8%B3%AA%E5%AD%90%E4%BA%A4%E6%8F%9B%E8%86%9C%E7%87%83%E6%96%99%E9%9B%BB%E6%B1%A0), 是一种以含氢燃料与空气作用产生电力与热力的燃料电池，运作温度在 50℃ 至 100℃，无需加压或减压，以高分子质子交换膜为传导媒介，没有任何化学液体，发电后产生纯水和热; 
 
