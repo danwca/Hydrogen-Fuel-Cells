@@ -108,7 +108,7 @@ Hydrogen Fuel Cells, Polymer electrolyte membrane (PEM) fuel cells, proton excha
 9. [四大电解水制氢技术科普：ALK、PEM、AEM、SOEC](https://ner.jgvogel.cn/c1351824.shtml), 碱性电解水技术（ALK）, 质子交换膜电解水技术（PEM）、 高温固体氧化物电解水技术（SOEC）和固体聚合物阴离子交换膜电解水技术（AEM）。
 0. [PEM 制氢有望打开新增长点——行业深度报告](https://pdf.dfcfw.com/pdf/H3_AP202204251561562036_1.pdf)
 1. [国内外PEM制氢电解槽生产厂商名单 (2024 )](http://h2city.cn/cms/a/1792.html), 
-2. [西门子能源可持续制氢解决方案](https://www.siemens-energy.com/cn/zh/home/products-services/product-offerings/hydrogen-solutions.html), 哪些领域会使用氢气？ 氢气市场分为三个领域。交通运输行业、能源和工业，其中工业是当今最大的氢气消费者（约 90％）。预计将来交通运输行业和能源领域的氢气使用比例将会提高; 当今哪些行业会用到氢气？ 当今，氢气是一种重要的工业气体，即用于精炼燃料、生产肥料和甲醇、氢化脂肪、生产钢铁、金属加工以及生产平板玻璃。中型汽车行驶 100 公里需要多少氢气？每行驶 100 公里需要不超过 1kg 的氢气。燃料电池电动汽车加油需要多长时间？ 客车或轻型汽车加油需要 3 至 5 分钟。 氢只是暂时的解决方案吗？不。氢将成为可持续能源行业的重要组成部分。
+2. [西门子能源可持续制氢解决方案](https://www.siemens-energy.com/cn/zh/home/products-services/product-offerings/hydrogen-solutions.html), 哪些领域会使用氢气？ 氢气市场分为三个领域。交通运输行业、能源和工业，其中工业是当今最大的氢气消费者（约90％）。预计将来交通运输行业和能源领域的氢气使用比例将会提高;当今哪些行业会用到氢气？当今，氢气是一种重要的工业气体，即用于精炼燃料、生产肥料和甲醇、氢化脂肪、生产钢铁、金属加工以及生产平板玻璃。中型汽车行驶 100 公里需要多少氢气？每行驶 100 公里需要不超过 1kg 的氢气。 燃料电池电动汽车加油需要多长时间？客车或轻型汽车加油需要 3 至 5 分钟。 氢只是暂时的解决方案吗？不。氢将成为可持续能源行业的重要组成部分。
 3. [2024年全球及中国制氢电解槽行业发展现状：绿氢项目建设火热，制氢电解槽市场开发潜力巨大](https://www.chyxx.com/industry/1183882.html), 制氢电解槽行业概述, 制氢电解槽产业链分析, 中国制氢电解槽发展现状, 全球制氢电解槽重点企业分析, 制氢电解槽行业发展趋势,
 4. [2025年中国制氢电解槽行业现状分析及未来发展趋势预测报告](https://www.chyxx.com/research/1183763.html), 
 5. [从电解槽设备看电解水制氢投资机会](https://dxobs.obs.cn-north-1.myhuaweicloud.com/dxzk/2023/03/guo-sheng-zheng-quan-dian-li-she-bei-hang-ye-shen-du-cong.pdf), 
